@@ -1,4 +1,4 @@
-# 🏓 Deep Reinforcement Learning Pong Game (Gymnasium + PyGame)
+# 🏓 Deep Reinforcement Learning Pong Game
 
 This project is a Deep Q-Network (DQN) implementation of the classic Pong game, built using **Gymnasium** (https://gymnasium.farama.org/) and **PyGame**. It enables both AI-vs-AI training and manual-vs-AI play modes.
 
